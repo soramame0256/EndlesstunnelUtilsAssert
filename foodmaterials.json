@@ -1,2 +1,188 @@
-"foodmaterials": {
+{
+  "FoodMaterials": [
+    {
+      "ENDER_EYE": [
+        {
+          "NAME": "§dエンダーアイ",
+          "SWEAT": 1,
+          "TASTE": 1,
+          "SALT": 1,
+          "ACID": 3,
+          "BITTER": 5,
+          "ASTR": 0,
+          "SPICY": 0,
+          "LORE": "§8§o「食べれ」はするが味はゲロまずくて\n§8§o体が不安定になって別次元に移動したりする",
+          "DROPSFROM": "DARK_SHADOW"
+        }
+      ],
+      "SHARK_MEAT": [
+        {
+          "NAME": "§bサメの切り身",
+          "SWEAT": 2,
+          "TASTE": 3,
+          "SALT": 3,
+          "ACID": 1,
+          "BITTER": 2,
+          "ASTR": 0,
+          "SPICY": 0,
+          "LORE": "§8§oこの世界の食材にしては普通に良い方である\n§8§o少し身が固く料理に困るかも",
+          "DROPSFROM": "SEA_SHARK"
+        }
+      ],
+      "GUARDIAN_THORN": [
+        {
+          "NAME": "§9ガーディアンの棘",
+          "SWEAT": 3,
+          "TASTE": 3,
+          "SALT": 5,
+          "ACID": 1,
+          "BITTER": 1,
+          "ASTR": 0,
+          "SPICY": 0,
+          "LORE": "§8§o誰だよこれ食おうとしたやつ\n§8§oと思いきや割と甘味があったりする",
+          "DROPSFROM": "GUARDIAN"
+        }
+      ],
+      "SEA_PORK": [
+        {
+          "NAME": "§b海の豚肉",
+          "SWEAT": 2,
+          "TASTE": 3,
+          "SALT": 3,
+          "ACID": 1,
+          "BITTER": 1,
+          "ASTR": 1,
+          "SPICY": 0,
+          "LORE": "§8§o実は「イルカ」じゃなくて「うみぶた」なんだよね...",
+          "DROPSFROM": "SEA_PIG"
+        }
+      ],
+      "SEA_PORK_ENCHANTED": [
+        {
+          "NAME": "§b海で熟成された豚肉",
+          "SWEAT": 2,
+          "TASTE": 5,
+          "SALT": 3,
+          "ACID": 1,
+          "BITTER": 2,
+          "ASTR": 2,
+          "SPICY": 0,
+          "LORE": "§8§o熟成されたことによって旨味が増した",
+          "DROPSFROM": "SEA_PIG"
+        }
+      ],
+      "SEA_EYE": [
+        {
+          "NAME": "§b深海の目",
+          "SWEAT": 1,
+          "TASTE": 1,
+          "SALT": 3,
+          "ACID": 3,
+          "BITTER": 3,
+          "ASTR": 0,
+          "SPICY": 0,
+          "LORE": "§8§o名前の通り深海の目である\n§8§oどうしてこれを食べようと思った・・？",
+          "DROPSFROM": "SEA_EYE"
+        }
+      ],
+      "SEA_EYE_ENCHANTED": [
+        {
+          "NAME": "§b上質な深海の目",
+          "SWEAT": 1,
+          "TASTE": 1,
+          "SALT": 4,
+          "ACID": 2,
+          "BITTER": 4,
+          "ASTR": 2,
+          "SPICY": 0,
+          "LORE": "§8§oより塩の味が増して渋さが加わった(?)",
+          "DROPSFROM": "SEA_EYE"
+        }
+      ],
+      "BURNING_FLAME": [
+        {
+          "NAME": "§c燃え盛る炎",
+          "SWEAT": 1,
+          "TASTE": 2,
+          "SALT": 2,
+          "ACID": 1,
+          "BITTER": 1,
+          "ASTR": 0,
+          "SPICY": 5,
+          "LORE": "§8§o炎って食べれるんですか?\n§8§oこの世界では食べれます！\n§8§o * 良い子は真似しないでね",
+          "DROPSFROM": "AQUA_BLAZE"
+        }
+      ],
+      "WILD_FIRE": [
+        {
+          "NAME": "§c燎原の火",
+          "SWEAT": 1,
+          "TASTE": 4,
+          "SALT": 3,
+          "ACID": 1,
+          "BITTER": 1,
+          "ASTR": 0,
+          "SPICY": 7,
+          "LORE": "§8§oと　て　も　あ　つ　い",
+          "DROPSFROM": "AQUA_BLAZE"
+        }
+      ],
+      "SHADOW": [
+        {
+          "NAME": "§7影",
+          "SWEAT": 0,
+          "TASTE": 0,
+          "SALT": 5,
+          "ACID": 0,
+          "BITTER": 5,
+          "ASTR": 7,
+          "SPICY": 0,
+          "LORE": "",
+          "DROPSFROM": "DARK_SHADOW"
+        }
+      ],
+      "GUARDIAN_MEAT": [
+        {
+          "NAME": "§9ガーディアンの切り身",
+          "SWEAT": 0,
+          "TASTE": 0,
+          "SALT": 7,
+          "ACID": 5,
+          "BITTER": 5,
+          "ASTR": 3,
+          "SPICY": 0,
+          "LORE": "§8§oガーディアンの.... 切り身...?????",
+          "DROPSFROM": "GUARDIAN"
+        }
+      ],
+      "NORMAL_WATER": [
+        {
+          "NAME": "§9普通の水",
+          "SWEAT": 2,
+          "TASTE": 3,
+          "SALT": 2,
+          "ACID": 2,
+          "BITTER": 2,
+          "ASTR": 0,
+          "SPICY": 0,
+          "LORE": "§8§o普通の水である\n§8§oこの世界では珍しいもので多くの人に重宝されている",
+          "DROPSFROM": "MOVABLE_WATER"
+        }
+      ],
+      "FINE_WATER": [
+        {
+          "NAME": "§9上質な水",
+          "SWEAT": 4,
+          "TASTE": 3,
+          "SALT": 2,
+          "ACID": 2,
+          "BITTER": 2,
+          "ASTR": 2,
+          "SPICY": 0,
+          "LORE": "§8§o普通の水より深い味の持った水",
+          "DROPSFROM": "MOVABLE_WATER"
+        }
+      ],
+    }
+  ]
 }
