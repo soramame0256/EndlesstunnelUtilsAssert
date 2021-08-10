@@ -1,20 +1,173 @@
 {
   "Skills": [
     {
-      "NAME": "ã‚¢ãƒ–ã‚½ãƒ¼ãƒ–",
-      "EFFECT": "Â§7ã‚·ãƒ•ãƒˆã‚¹ã‚­ãƒ«ç™ºå‹•æ™‚ä»¥ä¸‹ã®åŠ¹æžœã‚’ç™ºå‹•\nÂ§7ãƒ»å›žå¾©é€Ÿåº¦ã®Â§a150%Â§7ã«ç›¸å½“ã™ã‚‹ã‚·ãƒ¼ãƒ«ãƒ‰ã‚’ç”Ÿæˆ\nÂ§7ã‚ªãƒ•ãƒãƒ³ãƒ‰ã‚¹ã‚­ãƒ«ç™ºå‹•æ™‚ä»¥ä¸‹ã®åŠ¹æžœã‚’ç™ºå‹•\nÂ§7ãƒ»å›žå¾©é€Ÿåº¦ã®Â§a100%Â§7ã®åˆ†ä½“åŠ›ã‚’å›žå¾©ã™ã‚‹",,
+      "NAME": "ƒAƒuƒ\[ƒu",
+      "EFFECT": "˜7ƒVƒtƒgƒXƒLƒ‹”­“®ŽžˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜7E‰ñ•œ‘¬“x‚Ì˜a150%˜7‚É‘Š“–‚·‚éƒV[ƒ‹ƒh‚ð¶¬\n˜7ƒIƒtƒnƒ“ƒhƒXƒLƒ‹”­“®ŽžˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜7E‰ñ•œ‘¬“x‚Ì˜a100%˜7‚Ì•ª‘Ì—Í‚ð‰ñ•œ‚·‚é",
       "COOLDOWN": "7s",
-      "TRIGGER": "OTHER",
-      "CANINHERITANCE": true
+      "TRIGGER": "OTHER"
     },
     {
-      "NAME": "ãƒ©ã‚¤ãƒ•ã‚¢ãƒ‹ãƒž",
-      "EFFECT": "Â§7è‡ªèº«ã®Â§9æ°´å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«ä»¥ä¸‹ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ä¸Šæ˜‡ã•ã›ã‚‹\nÂ§7ãƒ»æœ€å¤§ä½“åŠ›: æ°´å±žæ€§æ”»æ’ƒã®40%\nÂ§7ãƒ»ãƒ’ãƒ¼ãƒ«å›žå¾©é‡: æ°´å±žæ€§æ”»æ’ƒã®15%",
+      "NAME": "ƒ‰ƒCƒtƒAƒjƒ}",
+      "EFFECT": "˜7Ž©g‚Ì˜9…‘®«UŒ‚˜7‚ðŠî€‚ÉˆÈ‰º‚ÌƒXƒe[ƒ^ƒX‚ðã¸‚³‚¹‚é\n˜7EÅ‘å‘Ì—Í: …‘®«UŒ‚‚Ì40%\n˜7Eƒq[ƒ‹‰ñ•œ—Ê: …‘®«UŒ‚‚Ì15%",
       "ELEMENTS": [{
         "WATER": null
         }],
-      "CANINHERITANCE": true
-
+      "TRIGGER": "PASSIVE"
+    },
+    {
+      "NAME": "ƒAƒNƒAƒVƒ‡ƒbƒg",
+      "EFFECT": "˜7‘O•û‚É…‚Ì–î‚ð”­ŽË‚·‚éB\n˜7’…’eŽž‚É’…’n’n“_‚Ì˜a4m˜7ˆÈ“à‚Ì“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚éB",
+      "MANA": 20,
+      "DAMAGE": 110,
+      "COOLDOWN": "5s",
+      "TRIGGER": "NORMAL",
+      "ELEMENTS": [{
+        "WATER": 120
+      }]
+    },
+    {
+      "NAME": "—Ž‚¿’…‚«",
+      "EFFECT": ",˜a15%˜7‚ÅŽg—pŽž‚ÉÁ”ï‚µ‚½ƒ}ƒi‚ð‚·‚×‚Ä•ÔŠÒ‚·‚éB",
+      "TRIGGER": "CLASSSKILL1"
+    },
+    {
+      "NAME": "ƒfƒbƒhƒAƒC",
+      "TRIGGER": "PASSIVE"
+    },
+    {
+      "NAME": "ƒtƒŒƒCƒ€ƒ‰ƒbƒVƒ…",
+      "TRIGGER": "PASSIVE"
+    },
+    {
+      "NAME": "ƒOƒ[ƒŠƒAƒXƒI[ƒ‰",
+      "EFFECT": "\n˜7EUŒ‚—Í‚ð˜a10%˜7ã¸‚³‚¹‚é [æŽZ]\n˜7E‰ñ•œ‘¬“x‚ð˜a10%˜7ã¸‚³‚¹‚é [æŽZ]\n˜7EˆÚ“®‘¬“x‚ð˜a30%˜7ã¸‚³‚¹‚é [‰ÁŽZ]",
+      "TRIGGER": "PASSIVE"
+    },
+    {
+      "NAME": "ƒnƒCƒhƒƒJ[ƒX",
+      "EFFECT": "˜7“G‚ÉŽ©•ª‚Ì˜b…‘®«UŒ‚˜7‚ðŠî€‚É–hŒäƒfƒoƒt‚ð•t—^‚·‚é\n˜7Œp‘±ŽžŠÔ5•bAÅ‘å70%",
+      "COOLDOWN": "8s",
+      "TRIGGER": "ATTACK",
+      "ELEMENTS": [{
+        "WATER": 40
+      }]
+    },
+    {
+      "NAME": "ƒCƒ“ƒvƒ[ƒh",
+      "EFFECT": "Ž©g‚Ì•—‘®«UŒ‚‚ðŠî€‚ÉˆÈ‰º‚ÌƒXƒe[ƒ^ƒX‚ðã¸‚³‚¹‚é\nE”š”j—Í: •—‘®«UŒ‚‚Ì60%\nE•¨—UŒ‚—Í: •—‘®«UŒ‚‚Ì15%",
+      "TRIGGER": "PASSIVE",
+      "ELEMENTS": [{
+        "WIND": null
+      }]
+    },
+    {
+      "NAME": "ƒŠ[ƒv"
+    },
+    {
+      "NAME": "ƒ‰ƒCƒtƒXƒeƒB[ƒ‹",
+      "EFFECT": "˜7Ž©•ª‚ÌÅ‘å‘Ì—Í‚Ì˜a2%˜7‚ð‰ñ•œ‚·‚é",
+      "COOLDOWN": "2s",
+      "TRIGGER": "ATTACK"
+    },
+    {
+      "NAME": "ƒ‰ƒCƒgƒXƒ‰ƒbƒVƒ…"
+    },
+    {
+      "NAME": "ƒŠƒ{ƒ‹ƒu",
+      "EFFECT": "˜73•bŠÔŽüˆÍ‚Ì“G‚ðƒ}[ƒN‚µ‚Ä3•bŒã‚Éƒ}[ƒN‚µ‚½“G‚ÉˆêÄ‚Éƒ_ƒ[ƒW‚ð—^‚¦‚é\n˜7‚±‚Ì‚Æ‚«UŒ‚‚ª“–‚½‚Á‚½“G1‘Ì‚É‚Â‚«CD‚ð˜a0.5•b˜7’Zk‚·‚é\n˜e5‘ÌˆÈã‚Ì“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚½ê‡ˆÈ‰º‚ÌŒø‰Ê”­“®\nŽ©•ª‚ÌˆÚ“®‘¬“x‚ðŠî€‚ÉŽŸ‚Ì˜a9•b˜eŠÔˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜bE—^‚¦‚éƒ_ƒ[ƒW‚ð‘å•ã¸‚³‚¹‚é\n˜bEUŒ‚‘¬“x‚ðã¸‚³‚¹‚é\n˜bEˆÚ“®‘¬“x‚ðã¸‚³‚¹‚é",
+      "MANA": 30,
+      "DAMAGE": 200,
+      "COOLDOWN": "15s",
+      "TRIGGER": "NORMAL"
+    },
+    {
+      "NAME": "ƒXƒp[ƒNƒ`ƒFƒCƒ“",
+      "EFFECT": "˜7Å‘å˜a6˜7‰ñ“G‚ÌŠÔ‚ð’µ–ô‚·‚é—‹‚ðÆ€‚Ì“G‚É•ú‚ÂB\n˜7‚±‚Ì—‹‚Í˜a5m˜7ˆÈ“à‚É‚¢‚éÅ‚à‹ß‚¢“G‚É’µ–ô‚µ‚Ä\n˜7’µ–ô‚·‚é‘ŠŽè‚ª‚¢‚È‚­‚È‚Á‚½‚çÁ–Å‚·‚éB",
+      "MANA": 25,
+      "DAMAGE": 100,
+      "COOLDOWN": "9s",
+      "TRIGGER": "NORMAL",
+      "ELEMENTS": [{
+        "THUNDER": 100
+      }]
+    },
+    {
+      "NAME": "ƒXƒyƒNƒgƒ‹ƒŒƒC",
+      "EFFECT": "˜71•b‚Ì—­‚ß‚ðs‚Á‚½ŒãA‘O•û‚É–‚–@‚Ì‘MŒõ‚ð”­ŽË‚·‚éB\n˜7‚±‚ÌUŒ‚‚ª“–‚½‚Á‚½“G‚É‘Î‚µ‚Äƒ_ƒ[ƒW‚ð—^‚¦A‚»‚Ì“G‚ð’†S ‚É˜a5m˜7ˆÈ“à‚Ì“G‚É‚àƒ_ƒ[ƒW‚ð—^‚¦‚éB",
+      "MANA": 50,
+      "DAMAGE": 250,
+      "COOLDOWN": "10s",
+      "TRIGGER": "NORMAL",
+      "ELEMENTS": [{
+        "ALL": 100
+      }]
+    },
+    {
+      "NAME": "—‹–Â",
+      "EFFECT": "˜73’i–Ú‚ÌUŒ‚‚ª–½’†‚µ‚½“G‚Ì˜a4m˜7ˆÈ“à‚É‚¢‚é“G‚É\n—Ž—‹‚ð”­¶‚³‚¹”ÍˆÍƒ_ƒ[ƒW‚ð—^‚¦‚é",
+      "DAMAGE": 130,
+      "COOLDOWN": "7s",
+      "TRIGGER": "ATTACK",
+      "ELEMENTS": [{
+        "THUNDER": 100
+      }]
+    },
+    {
+      "NAME": "ƒgƒŠƒvƒ‹ƒVƒ‡ƒbƒg",
+      "EFFECT": "˜7’ÊíUŒ‚‚ÌUŒ‚‰ñ”‚ð˜a2˜7-->˜a3˜7‚É‚·‚é",
+      "COOLDOWN": "2s",
+      "TRIGGER": "ATTACK"
+    },
+    {
+      "NAME": "ŽéF‚Ì’±",
+      "EFFECT": "Œ»ÝHP‚Ì30%‚ðÁ”ï‚µ‚ÄuŽé’±‚Ì•‘vó‘Ô‚É“ü‚éB\n˜e˜l˜nuŽé’±‚Ì•‘v\n˜eEuUŒ‚—Ív‚ÌÅ¬‚ÆÅ‘å’l‚ªHPãŒÀ‚Ì35%ã¸‚·‚é\n˜eEˆÚ“®‘¬“xã¸‡U‚ðŠl“¾‚·‚é\n˜eE’ÊíUŒ‚‘¬“x‚ª50%ã¸‚·‚é\n˜7‚±‚ÌŒø‰Ê‚Í9•bŒo‰ßŒã‚©•ŠíØ‚è‘Ö‚¦Žž‚ÉI—¹‚·‚éB",
+      "MANA": 30,
+      "COOLDOWN": "16s",
+      "TRIGGER": "NORMAL",
+      "CANINHERITANCE": false
+    },
+    {
+      "NAME": "ƒEƒBƒ“ƒhƒXƒg[ƒ€",
+      "EFFECT": "ù•—‚ðŠª‚«‹N‚±‚µA0.2•bŒã‚É\nŽ©•ª‚Ì5mˆÈ“à‚É‚¢‚é“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚éB",
+      "MANA": 30,
+      "DAMAGE": 165,
+      "COOLDOWN": "7s",
+      "TRIGGER": "NORMAL",
+      "ELEMENTS": [{
+        "WIND": 100
+      }]
+    },
+    {
+      "NAME": "ƒGƒ“ƒtƒ@ƒC",
+      "EFFECT": "Ž©g‚Ì˜c‰Î‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
+      "TRIGGER": "PASSIVE",
+      "ELEMENTS": [{
+        "FIRE": 100
+      }]
+    },
+    {
+      "NAME": "ƒGƒ“ƒuƒŠƒU",
+      "EFFECT": "Ž©g‚Ì˜b•X‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
+      "TRIGGER": "PASSIVE",
+      "ELEMENTS": [{
+        "ICE": 100
+      }]
+    },
+    {
+      "NAME": "ƒGƒ“ƒEƒHƒ^",
+      "EFFECT": "Ž©g‚Ì˜9…‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
+      "TRIGGER": "PASSIVE",
+      "ELEMENTS": [{
+        "WATER": 100
+      }]
+    },
+    {
+      "NAME": "ƒGƒ“ƒGƒAƒ",
+      "EFFECT": "Ž©g‚Ì˜a•—‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
+      "TRIGGER": "PASSIVE",
+      "ELEMENTS": [{
+        "WIND": 100
+      }]
     }
   ]
 }
