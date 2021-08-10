@@ -1,22 +1,22 @@
 {
   "Skills": [
     {
-      "NAME": "ã‚¢ãƒ–ã‚½ãƒ¼ãƒ–",
-      "EFFECT": "Â§7ã‚·ãƒ•ãƒˆã‚¹ã‚­ãƒ«ç™ºå‹•æ™‚ä»¥ä¸‹ã®åŠ¹æžœã‚’ç™ºå‹•\nÂ§7ãƒ»å›žå¾©é€Ÿåº¦ã®Â§a150%Â§7ã«ç›¸å½“ã™ã‚‹ã‚·ãƒ¼ãƒ«ãƒ‰ã‚’ç”Ÿæˆ\nÂ§7ã‚ªãƒ•ãƒãƒ³ãƒ‰ã‚¹ã‚­ãƒ«ç™ºå‹•æ™‚ä»¥ä¸‹ã®åŠ¹æžœã‚’ç™ºå‹•\nÂ§7ãƒ»å›žå¾©é€Ÿåº¦ã®Â§a100%Â§7ã®åˆ†ä½“åŠ›ã‚’å›žå¾©ã™ã‚‹",
+      "NAME": "ƒAƒuƒ\[ƒu",
+      "EFFECT": "˜7ƒVƒtƒgƒXƒLƒ‹”­“®ŽžˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜7E‰ñ•œ‘¬“x‚Ì˜a150%˜7‚É‘Š“–‚·‚éƒV[ƒ‹ƒh‚ð¶¬\n˜7ƒIƒtƒnƒ“ƒhƒXƒLƒ‹”­“®ŽžˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜7E‰ñ•œ‘¬“x‚Ì˜a100%˜7‚Ì•ª‘Ì—Í‚ð‰ñ•œ‚·‚é",
       "COOLDOWN": "7s",
       "TRIGGER": "OTHER"
     },
     {
-      "NAME": "ãƒ©ã‚¤ãƒ•ã‚¢ãƒ‹ãƒž",
-      "EFFECT": "Â§7è‡ªèº«ã®Â§9æ°´å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«ä»¥ä¸‹ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ä¸Šæ˜‡ã•ã›ã‚‹\nÂ§7ãƒ»æœ€å¤§ä½“åŠ›: æ°´å±žæ€§æ”»æ’ƒã®40%\nÂ§7ãƒ»ãƒ’ãƒ¼ãƒ«å›žå¾©é‡: æ°´å±žæ€§æ”»æ’ƒã®15%",
+      "NAME": "ƒ‰ƒCƒtƒAƒjƒ}",
+      "EFFECT": "˜7Ž©g‚Ì˜9…‘®«UŒ‚˜7‚ðŠî€‚ÉˆÈ‰º‚ÌƒXƒe[ƒ^ƒX‚ðã¸‚³‚¹‚é\n˜7EÅ‘å‘Ì—Í: …‘®«UŒ‚‚Ì40%\n˜7Eƒq[ƒ‹‰ñ•œ—Ê: …‘®«UŒ‚‚Ì15%",
       "ELEMENTS": [{
         "WATER": null
         }],
       "TRIGGER": "PASSIVE"
     },
     {
-      "NAME": "ã‚¢ã‚¯ã‚¢ã‚·ãƒ§ãƒƒãƒˆ",
-      "EFFECT": "Â§7å‰æ–¹ã«æ°´ã®çŸ¢ã‚’ç™ºå°„ã™ã‚‹ã€‚\nÂ§7ç€å¼¾æ™‚ã«ç€åœ°åœ°ç‚¹ã®Â§a4mÂ§7ä»¥å†…ã®æ•µã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚",
+      "NAME": "ƒAƒNƒAƒVƒ‡ƒbƒg",
+      "EFFECT": "˜7‘O•û‚É…‚Ì–î‚ð”­ŽË‚·‚éB\n˜7’…’eŽž‚É’…’n’n“_‚Ì˜a4m˜7ˆÈ“à‚Ì“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚éB",
       "MANA": 20,
       "DAMAGE": 110,
       "COOLDOWN": "5s",
@@ -26,26 +26,26 @@
       }]
     },
     {
-      "NAME": "è½ã¡ç€ã",
-      "EFFECT": ",Â§a15%Â§7ã§ä½¿ç”¨æ™‚ã«æ¶ˆè²»ã—ãŸãƒžãƒŠã‚’ã™ã¹ã¦è¿”é‚„ã™ã‚‹ã€‚",
+      "NAME": "—Ž‚¿’…‚«",
+      "EFFECT": ",˜a15%˜7‚ÅŽg—pŽž‚ÉÁ”ï‚µ‚½ƒ}ƒi‚ð‚·‚×‚Ä•ÔŠÒ‚·‚éB",
       "TRIGGER": "CLASSSKILL1"
     },
     {
-      "NAME": "ãƒ‡ãƒƒãƒ‰ã‚¢ã‚¤",
+      "NAME": "ƒfƒbƒhƒAƒC",
       "TRIGGER": "PASSIVE"
     },
     {
-      "NAME": "ãƒ•ãƒ¬ã‚¤ãƒ ãƒ©ãƒƒã‚·ãƒ¥",
+      "NAME": "ƒtƒŒƒCƒ€ƒ‰ƒbƒVƒ…",
       "TRIGGER": "PASSIVE"
     },
     {
-      "NAME": "ã‚°ãƒ­ãƒ¼ãƒªã‚¢ã‚¹ã‚ªãƒ¼ãƒ©",
-      "EFFECT": "\nÂ§7ãƒ»æ”»æ’ƒåŠ›ã‚’Â§a10%Â§7ä¸Šæ˜‡ã•ã›ã‚‹ [ä¹—ç®—]\nÂ§7ãƒ»å›žå¾©é€Ÿåº¦ã‚’Â§a10%Â§7ä¸Šæ˜‡ã•ã›ã‚‹ [ä¹—ç®—]\nÂ§7ãƒ»ç§»å‹•é€Ÿåº¦ã‚’Â§a30%Â§7ä¸Šæ˜‡ã•ã›ã‚‹ [åŠ ç®—]",
+      "NAME": "ƒOƒ[ƒŠƒAƒXƒI[ƒ‰",
+      "EFFECT": "\n˜7EUŒ‚—Í‚ð˜a10%˜7ã¸‚³‚¹‚é [æŽZ]\n˜7E‰ñ•œ‘¬“x‚ð˜a10%˜7ã¸‚³‚¹‚é [æŽZ]\n˜7EˆÚ“®‘¬“x‚ð˜a30%˜7ã¸‚³‚¹‚é [‰ÁŽZ]",
       "TRIGGER": "PASSIVE"
     },
     {
-      "NAME": "ãƒã‚¤ãƒ‰ãƒ­ã‚«ãƒ¼ã‚¹",
-      "EFFECT": "Â§7æ•µã«è‡ªåˆ†ã®Â§bæ°´å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«é˜²å¾¡ãƒ‡ãƒãƒ•ã‚’ä»˜ä¸Žã™ã‚‹\nÂ§7ç¶™ç¶šæ™‚é–“5ç§’ã€æœ€å¤§70%",
+      "NAME": "ƒnƒCƒhƒƒJ[ƒX",
+      "EFFECT": "˜7“G‚ÉŽ©•ª‚Ì˜b…‘®«UŒ‚˜7‚ðŠî€‚É–hŒäƒfƒoƒt‚ð•t—^‚·‚é\n˜7Œp‘±ŽžŠÔ5•bAÅ‘å70%",
       "COOLDOWN": "8s",
       "TRIGGER": "ATTACK",
       "ELEMENTS": [{
@@ -53,36 +53,36 @@
       }]
     },
     {
-      "NAME": "ã‚¤ãƒ³ãƒ—ãƒ­ãƒ¼ãƒ‰",
-      "EFFECT": "è‡ªèº«ã®é¢¨å±žæ€§æ”»æ’ƒã‚’åŸºæº–ã«ä»¥ä¸‹ã®ã‚¹ãƒ†ãƒ¼ã‚¿ã‚¹ã‚’ä¸Šæ˜‡ã•ã›ã‚‹\nãƒ»çˆ†ç ´åŠ›: é¢¨å±žæ€§æ”»æ’ƒã®60%\nãƒ»ç‰©ç†æ”»æ’ƒåŠ›: é¢¨å±žæ€§æ”»æ’ƒã®15%",
+      "NAME": "ƒCƒ“ƒvƒ[ƒh",
+      "EFFECT": "Ž©g‚Ì•—‘®«UŒ‚‚ðŠî€‚ÉˆÈ‰º‚ÌƒXƒe[ƒ^ƒX‚ðã¸‚³‚¹‚é\nE”š”j—Í: •—‘®«UŒ‚‚Ì60%\nE•¨—UŒ‚—Í: •—‘®«UŒ‚‚Ì15%",
       "TRIGGER": "PASSIVE",
       "ELEMENTS": [{
         "WIND": null
       }]
     },
     {
-      "NAME": "ãƒªãƒ¼ãƒ—"
+      "NAME": "ƒŠ[ƒv"
     },
     {
-      "NAME": "ãƒ©ã‚¤ãƒ•ã‚¹ãƒ†ã‚£ãƒ¼ãƒ«",
-      "EFFECT": "Â§7è‡ªåˆ†ã®æœ€å¤§ä½“åŠ›ã®Â§a2%Â§7ã‚’å›žå¾©ã™ã‚‹",
+      "NAME": "ƒ‰ƒCƒtƒXƒeƒB[ƒ‹",
+      "EFFECT": "˜7Ž©•ª‚ÌÅ‘å‘Ì—Í‚Ì˜a2%˜7‚ð‰ñ•œ‚·‚é",
       "COOLDOWN": "2s",
       "TRIGGER": "ATTACK"
     },
     {
-      "NAME": "ãƒ©ã‚¤ãƒˆã‚¹ãƒ©ãƒƒã‚·ãƒ¥"
+      "NAME": "ƒ‰ƒCƒgƒXƒ‰ƒbƒVƒ…"
     },
     {
-      "NAME": "ãƒªãƒœãƒ«ãƒ–",
-      "EFFECT": "Â§73ç§’é–“å‘¨å›²ã®æ•µã‚’ãƒžãƒ¼ã‚¯ã—ã¦3ç§’å¾Œã«ãƒžãƒ¼ã‚¯ã—ãŸæ•µã«ä¸€æ–‰ã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹\nÂ§7ã“ã®ã¨ãæ”»æ’ƒãŒå½“ãŸã£ãŸæ•µ1ä½“ã«ã¤ãCDã‚’Â§a0.5ç§’Â§7çŸ­ç¸®ã™ã‚‹\nÂ§e5ä½“ä»¥ä¸Šã®æ•µã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸ŽãˆãŸå ´åˆä»¥ä¸‹ã®åŠ¹æžœç™ºå‹•\nè‡ªåˆ†ã®ç§»å‹•é€Ÿåº¦ã‚’åŸºæº–ã«æ¬¡ã®Â§a9ç§’Â§eé–“ä»¥ä¸‹ã®åŠ¹æžœã‚’ç™ºå‹•\nÂ§bãƒ»ä¸Žãˆã‚‹ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’å¤§å¹…ä¸Šæ˜‡ã•ã›ã‚‹\nÂ§bãƒ»æ”»æ’ƒé€Ÿåº¦ã‚’ä¸Šæ˜‡ã•ã›ã‚‹\nÂ§bãƒ»ç§»å‹•é€Ÿåº¦ã‚’ä¸Šæ˜‡ã•ã›ã‚‹",
+      "NAME": "ƒŠƒ{ƒ‹ƒu",
+      "EFFECT": "˜73•bŠÔŽüˆÍ‚Ì“G‚ðƒ}[ƒN‚µ‚Ä3•bŒã‚Éƒ}[ƒN‚µ‚½“G‚ÉˆêÄ‚Éƒ_ƒ[ƒW‚ð—^‚¦‚é\n˜7‚±‚Ì‚Æ‚«UŒ‚‚ª“–‚½‚Á‚½“G1‘Ì‚É‚Â‚«CD‚ð˜a0.5•b˜7’Zk‚·‚é\n˜e5‘ÌˆÈã‚Ì“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚½ê‡ˆÈ‰º‚ÌŒø‰Ê”­“®\nŽ©•ª‚ÌˆÚ“®‘¬“x‚ðŠî€‚ÉŽŸ‚Ì˜a9•b˜eŠÔˆÈ‰º‚ÌŒø‰Ê‚ð”­“®\n˜bE—^‚¦‚éƒ_ƒ[ƒW‚ð‘å•ã¸‚³‚¹‚é\n˜bEUŒ‚‘¬“x‚ðã¸‚³‚¹‚é\n˜bEˆÚ“®‘¬“x‚ðã¸‚³‚¹‚é",
       "MANA": 30,
       "DAMAGE": 200,
       "COOLDOWN": "15s",
       "TRIGGER": "NORMAL"
     },
     {
-      "NAME": "ã‚¹ãƒ‘ãƒ¼ã‚¯ãƒã‚§ã‚¤ãƒ³",
-      "EFFECT": "Â§7æœ€å¤§Â§a6Â§7å›žæ•µã®é–“ã‚’è·³èºã™ã‚‹é›·ã‚’ç…§æº–ã®æ•µã«æ”¾ã¤ã€‚\nÂ§7ã“ã®é›·ã¯Â§a5mÂ§7ä»¥å†…ã«ã„ã‚‹æœ€ã‚‚è¿‘ã„æ•µã«è·³èºã—ã¦\nÂ§7è·³èºã™ã‚‹ç›¸æ‰‹ãŒã„ãªããªã£ãŸã‚‰æ¶ˆæ»…ã™ã‚‹ã€‚",
+      "NAME": "ƒXƒp[ƒNƒ`ƒFƒCƒ“",
+      "EFFECT": "˜7Å‘å˜a6˜7‰ñ“G‚ÌŠÔ‚ð’µ–ô‚·‚é—‹‚ðÆ€‚Ì“G‚É•ú‚ÂB\n˜7‚±‚Ì—‹‚Í˜a5m˜7ˆÈ“à‚É‚¢‚éÅ‚à‹ß‚¢“G‚É’µ–ô‚µ‚Ä\n˜7’µ–ô‚·‚é‘ŠŽè‚ª‚¢‚È‚­‚È‚Á‚½‚çÁ–Å‚·‚éB",
       "MANA": 25,
       "DAMAGE": 100,
       "COOLDOWN": "9s",
@@ -92,8 +92,8 @@
       }]
     },
     {
-      "NAME": "ã‚¹ãƒšã‚¯ãƒˆãƒ«ãƒ¬ã‚¤",
-      "EFFECT": "Â§71ç§’ã®æºœã‚ã‚’è¡Œã£ãŸå¾Œã€å‰æ–¹ã«é­”æ³•ã®é–ƒå…‰ã‚’ç™ºå°„ã™ã‚‹ã€‚\nÂ§7ã“ã®æ”»æ’ƒãŒå½“ãŸã£ãŸæ•µã«å¯¾ã—ã¦ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã€ãã®æ•µã‚’ä¸­å¿ƒ ã«Â§a5mÂ§7ä»¥å†…ã®æ•µã«ã‚‚ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚",
+      "NAME": "ƒXƒyƒNƒgƒ‹ƒŒƒC",
+      "EFFECT": "˜71•b‚Ì—­‚ß‚ðs‚Á‚½ŒãA‘O•û‚É–‚–@‚Ì‘MŒõ‚ð”­ŽË‚·‚éB\n˜7‚±‚ÌUŒ‚‚ª“–‚½‚Á‚½“G‚É‘Î‚µ‚Äƒ_ƒ[ƒW‚ð—^‚¦A‚»‚Ì“G‚ð’†S ‚É˜a5m˜7ˆÈ“à‚Ì“G‚É‚àƒ_ƒ[ƒW‚ð—^‚¦‚éB",
       "MANA": 50,
       "DAMAGE": 250,
       "COOLDOWN": "10s",
@@ -103,8 +103,8 @@
       }]
     },
     {
-      "NAME": "é›·é³´",
-      "EFFECT": "Â§73æ®µç›®ã®æ”»æ’ƒãŒå‘½ä¸­ã—ãŸæ•µã®Â§a4mÂ§7ä»¥å†…ã«ã„ã‚‹æ•µã«\nè½é›·ã‚’ç™ºç”Ÿã•ã›ç¯„å›²ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹",
+      "NAME": "—‹–Â",
+      "EFFECT": "˜73’i–Ú‚ÌUŒ‚‚ª–½’†‚µ‚½“G‚Ì˜a4m˜7ˆÈ“à‚É‚¢‚é“G‚É\n—Ž—‹‚ð”­¶‚³‚¹”ÍˆÍƒ_ƒ[ƒW‚ð—^‚¦‚é",
       "DAMAGE": 130,
       "COOLDOWN": "7s",
       "TRIGGER": "ATTACK",
@@ -113,22 +113,22 @@
       }]
     },
     {
-      "NAME": "ãƒˆãƒªãƒ—ãƒ«ã‚·ãƒ§ãƒƒãƒˆ",
-      "EFFECT": "Â§7é€šå¸¸æ”»æ’ƒã®æ”»æ’ƒå›žæ•°ã‚’Â§a2Â§7-->Â§a3Â§7ã«ã™ã‚‹",
+      "NAME": "ƒgƒŠƒvƒ‹ƒVƒ‡ƒbƒg",
+      "EFFECT": "˜7’ÊíUŒ‚‚ÌUŒ‚‰ñ”‚ð˜a2˜7-->˜a3˜7‚É‚·‚é",
       "COOLDOWN": "2s",
       "TRIGGER": "ATTACK"
     },
     {
-      "NAME": "æœ±è‰²ã®è¶",
-      "EFFECT": "ç¾åœ¨HPã®30%ã‚’æ¶ˆè²»ã—ã¦ã€Œæœ±è¶ã®èˆžã€çŠ¶æ…‹ã«å…¥ã‚‹ã€‚\nÂ§eÂ§lÂ§nã€Œæœ±è¶ã®èˆžã€\nÂ§eãƒ»ã€Œæ”»æ’ƒåŠ›ã€ã®æœ€å°ã¨æœ€å¤§å€¤ãŒHPä¸Šé™ã®35%ä¸Šæ˜‡ã™ã‚‹\nÂ§eãƒ»ç§»å‹•é€Ÿåº¦ä¸Šæ˜‡â…¡ã‚’ç²å¾—ã™ã‚‹\nÂ§eãƒ»é€šå¸¸æ”»æ’ƒé€Ÿåº¦ãŒ50%ä¸Šæ˜‡ã™ã‚‹\nÂ§7ã“ã®åŠ¹æžœã¯9ç§’çµŒéŽå¾Œã‹æ­¦å™¨åˆ‡ã‚Šæ›¿ãˆæ™‚ã«çµ‚äº†ã™ã‚‹ã€‚",
+      "NAME": "ŽéF‚Ì’±",
+      "EFFECT": "Œ»ÝHP‚Ì30%‚ðÁ”ï‚µ‚ÄuŽé’±‚Ì•‘vó‘Ô‚É“ü‚éB\n˜e˜l˜nuŽé’±‚Ì•‘v\n˜eEuUŒ‚—Ív‚ÌÅ¬‚ÆÅ‘å’l‚ªHPãŒÀ‚Ì35%ã¸‚·‚é\n˜eEˆÚ“®‘¬“xã¸‡U‚ðŠl“¾‚·‚é\n˜eE’ÊíUŒ‚‘¬“x‚ª50%ã¸‚·‚é\n˜7‚±‚ÌŒø‰Ê‚Í9•bŒo‰ßŒã‚©•ŠíØ‚è‘Ö‚¦Žž‚ÉI—¹‚·‚éB",
       "MANA": 30,
       "COOLDOWN": "16s",
       "TRIGGER": "NORMAL",
       "CANINHERITANCE": false
     },
     {
-      "NAME": "ã‚¦ã‚£ãƒ³ãƒ‰ã‚¹ãƒˆãƒ¼ãƒ ",
-      "EFFECT": "æ—‹é¢¨ã‚’å·»ãèµ·ã“ã—ã€0.2ç§’å¾Œã«\nè‡ªåˆ†ã®5mä»¥å†…ã«ã„ã‚‹æ•µã«ãƒ€ãƒ¡ãƒ¼ã‚¸ã‚’ä¸Žãˆã‚‹ã€‚",
+      "NAME": "ƒEƒBƒ“ƒhƒXƒg[ƒ€",
+      "EFFECT": "ù•—‚ðŠª‚«‹N‚±‚µA0.2•bŒã‚É\nŽ©•ª‚Ì5mˆÈ“à‚É‚¢‚é“G‚Éƒ_ƒ[ƒW‚ð—^‚¦‚éB",
       "MANA": 30,
       "DAMAGE": 165,
       "COOLDOWN": "7s",
@@ -138,32 +138,32 @@
       }]
     },
     {
-      "NAME": "ã‚¨ãƒ³ãƒ•ã‚¡ã‚¤",
-      "EFFECT": "è‡ªèº«ã®Â§cç«å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«Â§dæ”»æ’ƒåŠ›[%]Â§7ã‚’ä¸Šæ˜‡ã•ã›ã‚‹",
+      "NAME": "ƒGƒ“ƒtƒ@ƒC",
+      "EFFECT": "Ž©g‚Ì˜c‰Î‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
       "TRIGGER": "PASSIVE",
       "ELEMENTS": [{
         "FIRE": 100
       }]
     },
     {
-      "NAME": "ã‚¨ãƒ³ãƒ–ãƒªã‚¶",
-      "EFFECT": "è‡ªèº«ã®Â§bæ°·å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«Â§dæ”»æ’ƒåŠ›[%]Â§7ã‚’ä¸Šæ˜‡ã•ã›ã‚‹",
+      "NAME": "ƒGƒ“ƒuƒŠƒU",
+      "EFFECT": "Ž©g‚Ì˜b•X‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
       "TRIGGER": "PASSIVE",
       "ELEMENTS": [{
         "ICE": 100
       }]
     },
     {
-      "NAME": "ã‚¨ãƒ³ã‚¦ã‚©ã‚¿",
-      "EFFECT": "è‡ªèº«ã®Â§9æ°´å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«Â§dæ”»æ’ƒåŠ›[%]Â§7ã‚’ä¸Šæ˜‡ã•ã›ã‚‹",
+      "NAME": "ƒGƒ“ƒEƒHƒ^",
+      "EFFECT": "Ž©g‚Ì˜9…‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
       "TRIGGER": "PASSIVE",
       "ELEMENTS": [{
         "WATER": 100
       }]
     },
     {
-      "NAME": "ã‚¨ãƒ³ã‚¨ã‚¢ãƒ­",
-      "EFFECT": "è‡ªèº«ã®Â§aé¢¨å±žæ€§æ”»æ’ƒÂ§7ã‚’åŸºæº–ã«Â§dæ”»æ’ƒåŠ›[%]Â§7ã‚’ä¸Šæ˜‡ã•ã›ã‚‹",
+      "NAME": "ƒGƒ“ƒGƒAƒ",
+      "EFFECT": "Ž©g‚Ì˜a•—‘®«UŒ‚˜7‚ðŠî€‚É˜dUŒ‚—Í[%]˜7‚ðã¸‚³‚¹‚é",
       "TRIGGER": "PASSIVE",
       "ELEMENTS": [{
         "WIND": 100
