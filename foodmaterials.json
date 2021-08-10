@@ -1,7 +1,7 @@
 {
   "FoodMaterials": [
     {
-      "NAME": "§dエンダーアイ",
+      "NAME": "��d�G���_�[�A�C",
       "SWEAT": 1,
       "TASTE": 1,
       "SALT": 1,
@@ -9,11 +9,11 @@
       "BITTER": 5,
       "ASTR": 0,
       "SPICY": 0,
-      "LORE": "§8§o「食べれ」はするが味はゲロまずくて\n§8§o体が不安定になって別次元に移動したりする",
+      "LORE": "��8��o�u�H�ׂ�v�͂��邪���̓Q���܂�����\n��8��o�̂��s����ɂȂ��ĕʎ����Ɉړ������肷��",
       "DROPSFROM": "DARK_SHADOW"
     },
     {
-      "NAME": "§bサメの切り身",
+      "NAME": "��b�T���̐؂�g",
       "SWEAT": 2,
       "TASTE": 3,
       "SALT": 3,
@@ -21,11 +21,11 @@
       "BITTER": 2,
       "ASTR": 0,
       "SPICY": 0,
-      "LORE": "§8§oこの世界の食材にしては普通に良い方である\n§8§o少し身が固く料理に困るかも",
+      "LORE": "��8��o���̐��E�̐H�ނɂ��Ă͕��ʂɗǂ����ł���\n��8��o�����g���ł������ɍ��邩��",
       "DROPSFROM": "SEA_SHARK"
     },
     {
-      "NAME": "§9ガーディアンの棘",
+      "NAME": "��9�K�[�f�B�A���̞�",
       "SWEAT": 3,
       "TASTE": 3,
       "SALT": 5,
@@ -33,11 +33,11 @@
       "BITTER": 1,
       "ASTR": 0,
       "SPICY": 0,
-      "LORE": "§8§o誰だよこれ食おうとしたやつ\n§8§oと思いきや割と甘味があったりする",
+      "LORE": "��8��o�N���悱��H�����Ƃ������\n��8��o�Ǝv�����⊄�ƊÖ����������肷��",
       "DROPSFROM": "GUARDIAN"
     },
     {
-      "NAME": "§b海の豚肉",
+      "NAME": "��b�C�̓ؓ�",
       "SWEAT": 2,
       "TASTE": 3,
       "SALT": 3,
@@ -45,11 +45,11 @@
       "BITTER": 1,
       "ASTR": 1,
       "SPICY": 0,
-      "LORE": "§8§o実は「イルカ」じゃなくて「うみぶた」なんだよね...",
+      "LORE": "��8��o���́u�C���J�v����Ȃ��āu���݂Ԃ��v�Ȃ񂾂��...",
       "DROPSFROM": "SEA_PIG"
     },
     {
-      "NAME": "§b海で熟成された豚肉",
+      "NAME": "��b�C�ŏn�����ꂽ�ؓ�",
       "SWEAT": 2,
       "TASTE": 5,
       "SALT": 3,
@@ -57,11 +57,11 @@
       "BITTER": 2,
       "ASTR": 2,
       "SPICY": 0,
-      "LORE": "§8§o熟成されたことによって旨味が増した",
+      "LORE": "��8��o�n�����ꂽ���Ƃɂ���Ď|����������",
       "DROPSFROM": "SEA_PIG"
     },
     {
-      "NAME": "§b深海の目",
+      "NAME": "��b�[�C�̖�",
       "SWEAT": 1,
       "TASTE": 1,
       "SALT": 3,
@@ -69,11 +69,11 @@
       "BITTER": 3,
       "ASTR": 0,
       "SPICY": 0,
-      "LORE": "§8§o名前の通り深海の目である\n§8§oどうしてこれを食べようと思った・・？",
+      "LORE": "��8��o���O�̒ʂ�[�C�̖ڂł���\n��8��o�ǂ����Ă����H�ׂ悤�Ǝv�����E�E�H",
       "DROPSFROM": "SEA_EYE"
     },
     {
-      "NAME": "§b上質な深海の目",
+      "NAME": "��b�㎿�Ȑ[�C�̖�",
       "SWEAT": 1,
       "TASTE": 1,
       "SALT": 4,
@@ -81,11 +81,11 @@
       "BITTER": 4,
       "ASTR": 2,
       "SPICY": 0,
-      "LORE": "§8§oより塩の味が増して渋さが加わった(?)",
+      "LORE": "��8��o��艖�̖��������ďa�����������(?)",
       "DROPSFROM": "SEA_EYE"
     },
     {
-      "NAME": "§c燃え盛る炎",
+      "NAME": "��c�R�����鉊",
       "SWEAT": 1,
       "TASTE": 2,
       "SALT": 2,
@@ -93,11 +93,11 @@
       "BITTER": 1,
       "ASTR": 0,
       "SPICY": 5,
-      "LORE": "§8§o炎って食べれるんですか?\n§8§oこの世界では食べれます！\n§8§o * 良い子は真似しないでね",
+      "LORE": "��8��o�����ĐH�ׂ���ł���?\n��8��o���̐��E�ł͐H�ׂ�܂��I\n��8��o * �ǂ��q�͐^�����Ȃ��ł�",
       "DROPSFROM": "AQUA_BLAZE"
     },
     {
-      "NAME": "§c燎原の火",
+      "NAME": "��c�����̉�",
       "SWEAT": 1,
       "TASTE": 4,
       "SALT": 3,
@@ -105,11 +105,11 @@
       "BITTER": 1,
       "ASTR": 0,
       "SPICY": 7,
-      "LORE": "§8§oと　て　も　あ　つ　い",
+      "LORE": "��8��o�Ɓ@�ā@���@���@�@��",
       "DROPSFROM": "AQUA_BLAZE"
     },
     {
-      "NAME": "§7影",
+      "NAME": "��7�e",
       "SWEAT": 0,
       "TASTE": 0,
       "SALT": 5,
@@ -121,7 +121,7 @@
       "DROPSFROM": "DARK_SHADOW"
     },
     {
-      "NAME": "§9ガーディアンの切り身",
+      "NAME": "��9�K�[�f�B�A���̐؂�g",
       "SWEAT": 0,
       "TASTE": 0,
       "SALT": 7,
@@ -129,11 +129,11 @@
       "BITTER": 5,
       "ASTR": 3,
       "SPICY": 0,
-      "LORE": "§8§oガーディアンの.... 切り身...?????",
+      "LORE": "��8��o�K�[�f�B�A����.... �؂�g...?????",
       "DROPSFROM": "GUARDIAN"
     },
     {
-      "NAME": "§9普通の水",
+      "NAME": "��9���ʂ̐�",
       "SWEAT": 2,
       "TASTE": 3,
       "SALT": 2,
@@ -141,11 +141,11 @@
       "BITTER": 2,
       "ASTR": 0,
       "SPICY": 0,
-      "LORE": "§8§o普通の水である\n§8§oこの世界では珍しいもので多くの人に重宝されている",
+      "LORE": "��8��o���ʂ̐��ł���\n��8��o���̐��E�ł͒��������̂ő����̐l�ɏd�󂳂�Ă���",
       "DROPSFROM": "MOVABLE_WATER"
     },
     {
-      "NAME": "§9上質な水",
+      "NAME": "��9�㎿�Ȑ�",
       "SWEAT": 4,
       "TASTE": 3,
       "SALT": 2,
@@ -153,7 +153,7 @@
       "BITTER": 2,
       "ASTR": 2,
       "SPICY": 0,
-      "LORE": "§8§o普通の水より深い味の持った水",
+      "LORE": "��8��o���ʂ̐����[�����̎�������",
       "DROPSFROM": "MOVABLE_WATER"
     }
   ]
