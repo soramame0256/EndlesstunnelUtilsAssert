@@ -1,0 +1,273 @@
+{
+  "Entities": [
+    {
+      "ID": "RUIN_CORPSE",
+      "TYPE": "Zombie",
+      "NAME": "ルインコルプス",
+      "HEALTH": 100,
+      "LEVEL": 1,
+      "ATTACK": 2
+    },
+    {
+      "ID": "RUIN_SNIPER",
+      "TYPE": "Skeleton",
+      "NAME": "ルインスナイパー",
+      "HEALTH": 80,
+      "LEVEL": 2,
+      "ATTACK": 4
+    },
+    {
+      "ID": "SLIME",
+      "TYPE": "Slime",
+      "NAME": "スライム",
+      "HEALTH": 220,
+      "LEVEL": 3,
+      "ATTACK": 2
+    },
+    {
+      "ID": "FOREST_ASSASSIN",
+      "TYPE": "Skeleton",
+      "NAME": "フォーレストアサシン",
+      "HEALTH": 300,
+      "LEVEL": 5,
+      "ATTACK": 6
+    },
+    {
+      "ID": "RAM",
+      "TYPE": "Cow",
+      "NAME": "ラム",
+      "HEALTH": 420,
+      "LEVEL": 6,
+      "ATTACK": 4
+    },
+    {
+      "ID": "MEAT_EAT_SHEEP",
+      "TYPE": "Sheep",
+      "NAME": "食肉羊",
+      "HEALTH": 550,
+      "LEVEL": 10,
+      "ATTACK": 10
+    },
+    {
+      "ID": "WAR_SPIRIT",
+      "TYPE": "Zombie",
+      "NAME": "戦の精霊",
+      "HEALTH": 400,
+      "LEVEL": 8,
+      "ATTACK": 11
+    },
+    {
+      "ID": "ZOMBIE_SPIDER",
+      "TYPE": "Zombie",
+      "NAME": "ゾンビスパイダー",
+      "HEALTH": 750,
+      "LEVEL": 11,
+      "ATTACK": 9
+    },
+    {
+      "ID": "SNOW_CHICKEN",
+      "TYPE": "Chicken",
+      "NAME": "スノーチキン",
+      "HEALTH": 1200,
+      "LEVEL": 15,
+      "ATTACK": 11
+    },
+    {
+      "ID": "DEATH_MAGICIAN",
+      "TYPE": "Skeleton",
+      "NAME": "死霊の魔術師",
+      "HEALTH": 1700,
+      "LEVEL": 15,
+      "ATTACK": 12.5
+    },
+    {
+      "ID": "UNDEAD_ELEMENT",
+      "TYPE": "Wither_Skeleton",
+      "NAME": "アンデッドエレメント",
+      "HEALTH": 3100,
+      "LEVEL": 20,
+      "ATTACK": 23
+    },
+    {
+      "ID": "MINI_SQUID",
+      "TYPE": "Squid",
+      "NAME": "ミニスクイッド",
+      "HEALTH": 1600,
+      "LEVEL": 17,
+      "ATTACK": 15
+    },
+    {
+      "ID": "SEA_PIG",
+      "TYPE": "Pig",
+      "NAME": "海豚",
+      "HEALTH": 1900,
+      "LEVEL": 19,
+      "ATTACK": 17
+    },
+    {
+      "ID": "SEA_SNIPER",
+      "TYPE": "Skeleton",
+      "NAME": "海の狙撃手",
+      "HEALTH": 1400,
+      "LEVEL": 18,
+      "ATTACK": 10
+    },
+    {
+      "ID": "SEA_GUARDIAN",
+      "TYPE": "Pillager",
+      "NAME": "海の番人",
+      "HEALTH": 2300,
+      "LEVEL": 20,
+      "ATTACK": 25
+    },
+    {
+      "ID": "AQUA_BLAZE",
+      "TYPE": "Blaze",
+      "NAME": "アクアブレイズ",
+      "HEALTH": 6000,
+      "LEVEL": 20,
+      "ATTACK": 15
+    },
+    {
+      "ID": "SEA_EYE",
+      "TYPE": "Zombie",
+      "NAME": "深海の目",
+      "HEALTH": 2700,
+      "LEVEL": 22,
+      "ATTACK": 8
+    },
+    {
+      "ID": "JELLY_FISH_QUESTION",
+      "TYPE": "Spider",
+      "NAME": "海月?",
+      "HEALTH": 3200,
+      "LEVEL": 23,
+      "ATTACK": 20
+    },
+    {
+      "ID": "SEA_ASSASSIN",
+      "TYPE": "Skeleton",
+      "NAME": "シーアサシン",
+      "HEALTH": 3100,
+      "LEVEL": 25,
+      "ATTACK": 17
+    },
+    {
+      "ID": "MOVABLE_WATER",
+      "TYPE": "Zombie",
+      "NAME": "動ける水",
+      "HEALTH": 3100,
+      "LEVEL": 26,
+      "ATTACK": 17
+    },
+    {
+      "ID": "SEA_ESSENCE",
+      "TYPE": "Zombie",
+      "NAME": "シーエッセンス",
+      "HEALTH": 4200,
+      "LEVEL": 28,
+      "ATTACK": 20
+    },
+    {
+      "ID": "SEA_SHARK",
+      "TYPE": "Zombie",
+      "NAME": "シーシャーク",
+      "HEALTH": 4800,
+      "LEVEL": 28,
+      "ATTACK": 20
+    },
+    {
+      "ID": "GUARDIAN",
+      "TYPE": "Guardian",
+      "NAME": "ガーディアン",
+      "HEALTH": 15000,
+      "LEVEL": 30,
+      "ATTACK": 29
+    },
+    {
+      "ID": "DARK_SHADOW",
+      "TYPE": "Enderman",
+      "NAME": "ダークシャドウ",
+      "HEALTH": 11000,
+      "LEVEL": 25,
+      "ATTACK": 15
+    },
+    {
+      "ID": "CURSED_BONE",
+      "TYPE": "Wither_Skeleton",
+      "NAME": "カースドボーン",
+      "HEALTH": 3050,
+      "ATTACK": 13
+    },
+    {
+      "ID": "SLENDER",
+      "TYPE": "Enderman",
+      "NAME": "スレンダー",
+      "HEALTH": 3333,
+      "ATTACK": 30
+    },
+    {
+      "ID": "ARCHER_SHINE",
+      "TYPE": "Skeleton",
+      "NAME": "弓兵・輝",
+      "HEALTH": 3900,
+      "ATTACK": 36.15
+    },
+    {
+      "ID": "PUNEBUMA_ECLAIR",
+      "TYPE": "Skeleton",
+      "NAME": "プネブマ＝エクレール",
+      "HEALTH": 26000,
+      "ATTACK": 40
+    },
+    {
+      "ID": "MYSTERIOUS_MADNESS",
+      "TYPE": "Player",
+      "NAME": "幽き狂気",
+      "HEALTH": 7000,
+      "ATTACK": 35
+    },
+    {
+      "ID": "ARCHER_FEI",
+      "TYPE": "Skeleton",
+      "NAME": "弓兵・翡",
+      "HEALTH": 7800,
+      "ATTACK": 60
+    },
+    {
+      "ID": "WATER_WARRIOR_MAYNARD",
+      "TYPE": "Skeleton",
+      "NAME": "水戦雄メイナード",
+      "HEALTH": 27000,
+      "ATTACK": 46
+    },
+    {
+      "ID": "LA_AERO",
+      "TYPE": "Skeleton",
+      "NAME": "ラ・エアロ",
+      "HEALTH": 50000,
+      "ATTACK": 19.5
+    },
+    {
+      "ID": "ARCHER_AO",
+      "TYPE": "Skeleton",
+      "NAME": "弓兵・碧",
+      "HEALTH": 18000,
+      "ATTACK": 80
+    },
+    {
+      "ID": "HYDROMIA",
+      "TYPE": "Sheep",
+      "NAME": "ハイドロミア",
+      "HEALTH": 38000,
+      "ATTACK": 40
+    },
+    {
+      "ID": "PESERAJE",
+      "TYPE": "Skeleton",
+      "NAME": "ペセラジェ",
+      "HEALTH": 100000,
+      "ATTACK": 50
+    }
+  ]
+}
