@@ -4,7 +4,7 @@
       "ID": "RUIN_CORPSE",
       "TYPE": "Zombie",
       "NAME": "ルインコルプス",
-      "HEALTH": 100,
+      "HEALTH": 80,
       "LEVEL": 1,
       "ATTACK": 2
     },
@@ -12,7 +12,7 @@
       "ID": "RUIN_SNIPER",
       "TYPE": "Skeleton",
       "NAME": "ルインスナイパー",
-      "HEALTH": 80,
+      "HEALTH": 60,
       "LEVEL": 2,
       "ATTACK": 4
     },
@@ -20,7 +20,7 @@
       "ID": "SLIME",
       "TYPE": "Slime",
       "NAME": "スライム",
-      "HEALTH": 220,
+      "HEALTH": 170,
       "LEVEL": 3,
       "ATTACK": 2
     },
@@ -28,7 +28,7 @@
       "ID": "FOREST_ASSASSIN",
       "TYPE": "Skeleton",
       "NAME": "フォーレストアサシン",
-      "HEALTH": 300,
+      "HEALTH": 250,
       "LEVEL": 5,
       "ATTACK": 6
     },
