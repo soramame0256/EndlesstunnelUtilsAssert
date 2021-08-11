@@ -81,12 +81,27 @@
       "ATTACK": 12.5
     },
     {
+      "ID": "DEATH_SPIRIT",
+      "TYPE": "Zombie",
+      "NAME": "§8死霊",
+      "HEALTH": 50,
+      "ATTACK": 3
+    },
+    {
       "ID": "UNDEAD_ELEMENT",
       "TYPE": "Wither_Skeleton",
       "NAME": "§8アンデッドエレメント",
       "HEALTH": 3100,
       "LEVEL": 20,
       "ATTACK": 23
+    },
+    {
+      "ID": "SPIRIT_OF_VOID",
+      "NAME": "§8虚無の精霊",
+      "TYPE": "Zombie",
+      "HEALTH": 100,
+      "LEVEL": 15,
+      "ATTACK": 10
     },
     {
       "ID": "MINI_SQUID",
