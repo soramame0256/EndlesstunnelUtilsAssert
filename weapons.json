@@ -241,5 +241,26 @@
         }
       ],
       "RARITY": "EPIC"
+    },
+    {
+      "NAME": "ペリッシュ",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 7,
+      "ATKSPD": 2,
+      "DAMMAX": 12,
+      "DAMMIN": 7,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 22,
+          "MIN": 6
+        },
+        {
+          "NAME": "体力回復速度",
+          "MAX": -6,
+          "MIN": -16
+        }
+      ],
+      "RARITY": "EPIC"
     }
   ]}
