@@ -416,6 +416,218 @@
       "RARITY": "LEGENDARY"
     },
     {
+      "NAME": "フェノメノン",
+      "WEAPONTYPE": "WAND",
+      "ATKSPD": 15,
+      "DAMMIN": 7,
+      "DAMMAX": 8,
+      "LEVEL": 14,
+      "SKILL": "スペクトルレイ",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": -30,
+          "MIN": -80
+        },
+        {
+          "NAME": "物理攻撃力",
+          "MAX": -15,
+          "MIN": -40
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": -30,
+          "MIN": -80
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 28,
+          "MIN": 8
+        },
+        {
+          "NAME": "最大マナ",
+          "MAX": 35,
+          "MIN": 10
+        },
+        {
+          "NAME": "火属性攻撃",
+          "MAX": 28,
+          "MIN": 8
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 28,
+          "MIN": 8
+        },
+        {
+          "NAME": "風属性攻撃",
+          "MAX": 28,
+          "MIN": 8
+        },
+        {
+          "NAME": "雷属性攻撃",
+          "MAX": 28,
+          "MIN": 8
+        }
+      ]
+    },
+    {
+      "NAME": "ダウンフォール",
+      "WEAPONTYPE": "MACE",
+      "ATKSPD": 2,
+      "DAMMIN": 23,
+      "DAMMAX": 30,
+      "LEVEL": 14,
+      "SKILL": "アクアショット",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": 24,
+          "MIN": 7
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 105,
+          "MIN": 30
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 11,
+          "MIN": 3
+        }
+      ]
+    },
+    {
+      "NAME": "シュネル",
+      "WEAPONTYPE": "DAGGER",
+      "ATKSPD": 2,
+      "DAMMIN": 40,
+      "DAMMAX": 63,
+      "LEVEL": 14,
+      "SKILL": "リボルブ",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": 200,
+          "MIN": 57
+        },
+        {
+          "NAME": "マナ生成速度",
+          "MAX": -51,
+          "MIN": -136
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": 28,
+          "MIN": 8
+        }
+      ]
+    },
+    {
+      "NAME": "グラビティ",
+      "WEAPONTYPE": "SWORD",
+      "ATKSPD": 1.4,
+      "DAMMIN": 22,
+      "DAMMAX": 28,
+      "LEVEL": 14,
+      "SKILL": "アブゾーブ",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": -39,
+          "MIN": -104
+        },
+        {
+          "NAME": "最大体力",
+          "MAX": 49,
+          "MIN": 14
+        },
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 29,
+          "MIN": 8
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 25,
+          "MIN": 7
+        },
+        {
+          "NAME": "体力回復速度",
+          "MAX": 15,
+          "MIN": 4
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 15,
+          "MIN": 4
+        }
+      ]
+    },
+    {
+      "NAME": "ジョンブリアン",
+      "WEAPONTYPE": "AXE",
+      "ATKSPD": 5,
+      "DAMMIN": 5,
+      "DAMMAX": 45,
+      "LEVEL": 14,
+      "SKILL": "スパークチェイン",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": 10,
+          "MIN": 3
+        },
+        {
+          "NAME": "最大体力",
+          "MAX": -33,
+          "MIN": -88
+        },
+        {
+          "NAME": "最大マナ",
+          "MAX": 14,
+          "MIN": 4
+        },
+        {
+          "NAME": "雷属性攻撃",
+          "MAX": 49,
+          "MIN": 14
+        }
+      ]
+    },
+    {
+      "NAME": "ローグ",
+      "WEAPONTYPE": "GUN",
+      "ATKSPD": 1.5,
+      "DAMMIN": 40,
+      "DAMMAX": 65,
+      "LEVEL": 14,
+      "SKILL": "デッドアイ",
+      "RARITY": "ULTIMATE",
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": 45,
+          "MIN": 13
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 7,
+          "MIN": 2
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": 45,
+          "MIN": 13
+        }
+      ]
+    },
+    {
       "NAME": "リバーフロー",
       "WEAPONTYPE": "AXE",
       "LEVEL": 16,
