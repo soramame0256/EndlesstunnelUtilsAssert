@@ -366,6 +366,7 @@
       "NAME": "サイクロン",
       "WEAPONTYPE": "AXE",
       "LEVEL": 13,
+      "SKILL": "リープ",
       "ATKSPD": 1.5,
       "DAMMAX": 27,
       "DAMMIN": 21,
@@ -392,6 +393,7 @@
       "NAME": "エレクトロニカ",
       "WEAPONTYPE": "SWORD",
       "LEVEL": 13,
+      "SKILL": "スパークチェイン",
       "ATKSPD": 1.6,
       "DAMMAX": 40,
       "DAMMIN": 20,
@@ -405,6 +407,168 @@
           "NAME": "俊敏性",
           "MAX": -7,
           "MIN": -18
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "リバーフロー",
+      "WEAPONTYPE": "AXE",
+      "LEVEL": 16,
+      "SKILL": "アクアショット",
+      "ATKSPD": 1,
+      "DAMMAX": 70,
+      "DAMMIN": 55,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 35,
+          "MIN": 10
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 21,
+          "MIN": 6
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 4,
+          "MIN": 1
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "インペリアリズム",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 17,
+      "ATKSPD": 1,
+      "DAMMAX": 56,
+      "DAMMIN": 48,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 24,
+          "MIN": 7
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 39,
+          "MIN": 11
+        },
+        {
+          "NAME": "最大体力",
+          "MAX": -15,
+          "MIN": -40
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 4,
+          "MIN": 1
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "ファイロブレイド",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 16,
+      "ATKSPD": 1,
+      "DAMMAX": 76,
+      "DAMMIN": 60,
+      "ATTR":[
+        {
+          "NAME": "体力回復量",
+          "MAX": 3,
+          "MIN": 1
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": -9,
+          "MIN": -24
+        },
+        {
+          "NAME": "爆破力",
+          "MAX": 46,
+          "MIN": 13
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "タイタニウムメイス",
+      "WEAPONTYPE": "MACE",
+      "LEVEL": 16,
+      "ATKSPD": 0.5,
+      "DAMMAX": 100,
+      "DAMMIN": 60,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 21,
+          "MIN": 6
+        },
+        {
+          "NAME": "最大体力",
+          "MAX": 21,
+          "MIN": 6
+        },
+        {
+          "NAME": "爆破力",
+          "MAX": 45,
+          "MIN": 13
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "ミーナ",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 16,
+      "ATKSPD": 1.52,
+      "DAMMAX": 58,
+      "DAMMIN": 42,
+      "ATTR":[
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 17,
+          "MIN": 5
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 17,
+          "MIN": 5
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": -7,
+          "MIN": -19
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "デクライン",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 17,
+      "ATKSPD": 0.5,
+      "DAMMAX": 141,
+      "DAMMIN": 99,
+      "ATTR":[
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 35,
+          "MIN": 10
+        },
+        {
+          "NAME": "最大体力",
+          "MAX": 35,
+          "MIN": 10
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": -4,
+          "MIN": -10
         }
       ],
       "RARITY": "LEGENDARY"
