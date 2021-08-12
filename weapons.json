@@ -1,0 +1,219 @@
+{
+  "Weapons": [
+    {
+      "NAME": "セレスチアルソード",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 3,
+      "ATKSPD": 0.9,
+      "DAMMIN": 7,
+      "DAMMAX": 11,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 15,
+          "MIN": 4
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "セレスチアルメイス",
+      "WEAPONTYPE": "MACE",
+      "SKILL": "ライフスティール",
+      "LEVEL": 3,
+      "ATKSPD": 0.4,
+      "DAMMIN": 13,
+      "DAMMAX": 15,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 14,
+          "MIN": 4
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "セレスチアルガン",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 3,
+      "ATKSPD": 1.6,
+      "DAMMIN": 6,
+      "DAMMAX": 16,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 18,
+          "MIN": 5
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "セレスチアルアックス",
+      "WEAPONTYPE": "AXE",
+      "LEVEL": 3,
+      "ATKSPD": 0.7,
+      "DAMMIN": 13,
+      "DAMMAX": 22,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 11,
+          "MIN": 3
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "セレスチアルロッド",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 3,
+      "ATKSPD": 0.55,
+      "DAMMIN": 9,
+      "DAMMAX": 12,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 14,
+          "MIN": 4
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "セレスチアルダガー",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 3,
+      "ATKSPD": 1.4,
+      "DAMMIN": 8,
+      "DAMMAX": 15,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 20,
+          "MIN": 6
+        },
+        {
+          "NAME": "装備ボーナス",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "アイシクル",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 6,
+      "ATKSPD": 0.6,
+      "DAMMIN": 15,
+      "DAMMAX": 25,
+      "ATTR": [
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 15,
+          "MIN": 4
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": -5,
+          "MIN": -13
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": -3,
+          "MIN": -8
+        }
+      ],
+      "RARITY": "RARE"
+    },
+    {
+      "NAME": "スチールライフル",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 6,
+      "ATKSPD": 1.5,
+      "DAMMIN": 12,
+      "DAMMAX": 18,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": -4,
+          "MIN": -11
+        },
+        {
+          "NAME": "会心率",
+          "MAX": 5,
+          "MIN": 17
+        }
+      ],
+      "RARITY": "RARE"
+    },
+    {
+      "NAME": "ファイアメイス",
+      "WEAPONTYPE": "MACE",
+      "LEVEL": 6,
+      "ATKSPD": 0.5,
+      "DAMMIN": 17,
+      "DAMMAX": 20,
+      "ATTR": [
+        {
+          "NAME": "物理攻撃力",
+          "MAX": -7,
+          "MIN": -18
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 8,
+          "MIN": 2
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 10,
+          "MIN": 3
+        }
+      ],
+      "RARITY": "RARE"
+    },
+    {
+      "NAME": "ライトブリンガー",
+      "WEAPONTYPE": "AXE",
+      "LEVEL": 7,
+      "ATKSPD": 1.2,
+      "DAMMIN": 5,
+      "DAMMAX": 25,
+      "ATTR": [
+        {
+          "NAME": "移動速度",
+          "MAX": 8,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
+    }
+  ]}
