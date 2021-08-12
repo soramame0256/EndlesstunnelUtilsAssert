@@ -47,6 +47,7 @@
       "NAME": "セレスチアルガン",
       "WEAPONTYPE": "GUN",
       "LEVEL": 3,
+      "SKILL": "トリプルショット",
       "ATKSPD": 1.6,
       "DAMMIN": 6,
       "DAMMAX": 16,
