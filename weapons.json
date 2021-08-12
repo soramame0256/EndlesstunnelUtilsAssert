@@ -262,5 +262,151 @@
         }
       ],
       "RARITY": "EPIC"
+    },
+    {
+      "NAME": "カーディナル",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 13,
+      "ATKSPD": 1,
+      "DAMMAX": 65,
+      "DAMMIN": 40,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": 17,
+          "MIN": 5
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": -5,
+          "MIN": -14
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "ヌアザ",
+      "WEAPONTYPE": "MACE",
+      "LEVEL": 13,
+      "ATKSPD": 0.5,
+      "DAMMAX": 35,
+      "DAMMIN": 30,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": -7,
+          "MIN": -19
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 31,
+          "MIN": 9
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "ムーンライト",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 13,
+      "ATKSPD": 1.8,
+      "DAMMAX": 31,
+      "DAMMIN": 24,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": -10,
+          "MIN": -27
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 14,
+          "MIN": 4
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 8,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "スヴァローグ",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 13,
+      "ATKSPD": 0.7,
+      "DAMMAX": 30,
+      "DAMMIN": 27,
+      "ATTR":[
+        {
+          "NAME": "防御力",
+          "MAX": 1.4,
+          "MIN": 0.4
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": -5,
+          "MIN": -14
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": -3,
+          "MIN": -8
+        },
+        {
+          "NAME": "火属性攻撃",
+          "MAX": 17,
+          "MIN": 5
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "サイクロン",
+      "WEAPONTYPE": "AXE",
+      "LEVEL": 13,
+      "ATKSPD": 1.5,
+      "DAMMAX": 27,
+      "DAMMIN": 21,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": -11,
+          "MIN": -29
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 24,
+          "MIN": 7
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": 21,
+          "MIN": 6
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "エレクトロニカ",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 13,
+      "ATKSPD": 1.6,
+      "DAMMAX": 40,
+      "DAMMIN": 20,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 20,
+          "MIN": 6
+        },
+        {
+          "NAME": "俊敏性",
+          "MAX": -7,
+          "MIN": -18
+        }
+      ],
+      "RARITY": "LEGENDARY"
     }
   ]}
