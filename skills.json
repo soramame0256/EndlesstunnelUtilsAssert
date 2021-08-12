@@ -187,6 +187,12 @@
           "WIND": 100
         }],
         "CANINHERITANCE": false
+      },
+      {
+        "NAME": "ラッシュ"
+      },
+      {
+        "NAME": "ウォータージェット"
       }
   ]
 }
