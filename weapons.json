@@ -576,5 +576,59 @@
         }
       ],
       "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "アバランチ",
+      "WEAPONTYPE": "AXE",
+      "LEVEL": 22,
+      "SKILL": "エンブリザ",
+      "ATKSPD": 1.2,
+      "DAMMAX": 60,
+      "DAMMIN": 50,
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": -10,
+          "MIN": -27
+        },
+        {
+          "NAME": "氷属性攻撃",
+          "MAX": 49,
+          "MIN": 14
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "トリフィド",
+      "WEAPONTYPE": "MACE",
+      "LEVEL": 22,
+      "SKILL": "ライフアニマ",
+      "ATKSPD": 1,
+      "DAMMAX": 56,
+      "DAMMIN": 40,
+      "ATTR":[
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 20,
+          "MIN": 6
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 49,
+          "MIN": 14
+        },
+        {
+          "NAME": "マナ生成速度",
+          "MAX": "20",
+          "MIN": "6"
+        },
+        {
+          "NAME": "最大マナ",
+          "MAX": 20,
+          "MIN": 6
+        }
+      ],
+      "RARITY": "LEGENDARY"
     }
   ]}
