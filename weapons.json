@@ -215,5 +215,30 @@
         }
       ],
       "RARITY": "EPIC"
+    },
+    {
+      "NAME": "アルコイリス",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 7,
+      "ATKSPD": 0.6,
+      "DAMMAX": 16,
+      "DAMMIN": 14,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 17,
+          "MIN": 5
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": -10,
+          "MIN": -26
+        },
+        {
+          "NAME": "マナ生成速度",
+          "MAX": 67,
+          "MIN":19
+        }
+      ]
     }
   ]}
