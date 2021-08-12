@@ -632,6 +632,110 @@
       "RARITY": "LEGENDARY"
     },
     {
-
+      "NAME": "ウィンド",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 21,
+      "SKILL": "エンエアロ",
+      "ATKSPD": 1.15,
+      "DAMMAX": 73,
+      "DAMMIN": 45,
+      "ATTR":[
+        {
+          "NAME": "移動速度",
+          "MAX": 45,
+          "MIN": 13
+        },
+        {
+          "NAME": "風属性攻撃",
+          "MAX": 49,
+          "MIN": 14
+        },
+        {
+          "NAME": "防御力",
+          "MAX": -0.3,
+          "MIN": -0.8
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "ルーレット",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 21,
+      "ATKSPD": 2,
+      "DAMMAX": 2,
+      "DAMMIN": 1,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 3500,
+          "MIN": 1000
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 3500,
+          "MIN": 1000
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "アッシュストーム",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 21,
+      "SKILL": "インプロード",
+      "ATKSPD": 1.3,
+      "DAMMAX": 90,
+      "DAMMIN": 50,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": -9,
+          "MIN": -24
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 77,
+          "MIN": 22
+        },
+        {
+          "NAME": "風属性攻撃",
+          "MAX": 77,
+          "MIN": 22
+        }
+      ],
+      "RARITY": "EPIC"
+    },
+    {
+      "NAME": "フロガ",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 21,
+      "SKILL": "エンファイ",
+      "ATKSPD": 0.9,
+      "DAMMAX": 75,
+      "DAMMIN": 55,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 13,
+          "MIN": 4
+        },
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 25,
+          "MIN": 7
+        },
+        {
+          "NAME": "火属性攻撃",
+          "MAX": 78,
+          "MIN": 22
+        },
+        {
+          "NAME": "体力回復量",
+          "MAX": 7,
+          "MIN": 2
+        }
+      ],
+      "RARITY": "EPIC"
     }
   ]}
