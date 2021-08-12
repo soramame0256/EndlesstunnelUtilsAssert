@@ -979,5 +979,140 @@
         }
       ],
       "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "プリズマリンガン",
+      "WEAPONTYPE": "GUN",
+      "LEVEL": 26,
+      "SKILL": "エンウォタ",
+      "ATKSPD": 2.2,
+      "DAMMAX": 60,
+      "DAMMIN": 40,
+      "ATTR":[
+        {
+          "NAME": "物理攻撃力",
+          "MAX": 17,
+          "MIN": 5
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 36,
+          "MIN": 10
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 18,
+          "MIN": 5
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "プリズマリンワンド",
+      "WEAPONTYPE": "WAND",
+      "LEVEL": 26,
+      "SKILL": "エンウォタ",
+      "ATKSPD": 2.2,
+      "DAMMAX": 40,
+      "DAMMIN": 30,
+      "ATTR":[
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 20,
+          "MIN": 6
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 36,
+          "MIN": 10
+        },
+        {
+          "NAME": "最大マナ",
+          "MAX": 18,
+          "MIN": 5
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "プリズマリンメイス",
+      "WEAPONTYPE": "MACE",
+      "LEVEL": 26,
+      "SKILL": "エンウォタ",
+      "ATKSPD": 1,
+      "DAMMAX": 65,
+      "DAMMIN": 55,
+      "ATTR":[
+        {
+          "NAME": "最大体力",
+          "MAX": 21,
+          "MIN": 6
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 36,
+          "MIN": 10
+        },
+        {
+          "NAME": "マナ生成速度",
+          "MAX": 27,
+          "MIN": 8
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "プリズマリンダガー",
+      "WEAPONTYPE": "DAGGER",
+      "LEVEL": 26,
+      "SKILL": "エンウォタ",
+      "ATKSPD": 3,
+      "DAMMAX": 40,
+      "DAMMIN": 30,
+      "ATTR":[
+        {
+          "NAME": "魔法攻撃力",
+          "MAX": 24,
+          "MIN": 7
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 36,
+          "MIN": 10
+        },
+        {
+          "NAME": "移動速度",
+          "MAX": 24,
+          "MIN": 7
+        }
+      ],
+      "RARITY": "LEGENDARY"
+    },
+    {
+      "NAME": "プリズマリンブレイド",
+      "WEAPONTYPE": "SWORD",
+      "LEVEL": 26,
+      "SKILL": "エンウォタ",
+      "ATKSPD": 1.9,
+      "DAMMAX": 45,
+      "DAMMIN": 35,
+      "ATTR":[
+        {
+          "NAME": "体力回復量",
+          "MAX": 15,
+          "MIN": 4
+        },
+        {
+          "NAME": "水属性攻撃",
+          "MAX": 36,
+          "MIN": 10
+        },
+        {
+          "NAME": "防御力",
+          "MAX": 2.1,
+          "MIN": 0.6
+        }
+      ],
+      "RARITY": "LEGENDARY"
     }
   ]}
