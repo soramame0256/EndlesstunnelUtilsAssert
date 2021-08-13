@@ -155,6 +155,18 @@
       "SPICY": 0,
       "LORE": "˜8˜o•’Ê‚Ì…‚æ‚è[‚¢–¡‚ÌŽ‚Á‚½…",
       "DROPSFROM": "MOVABLE_WATER"
+    },
+    {
+      "NAME": "˜e‰©‹à‚ÌƒŠƒ“ƒS",
+      "SWEAT": 10,
+      "TASTE": 7,
+      "SALT": 7,
+      "ACID": 7,
+      "BITTER": 7,
+      "ASTR": 5,
+      "SPICY": 5,
+      "LORE": "˜8˜o“V‹ó‚Ì’n‚©‚çŽö‚¯‚ç‚ê‚½‚à‚Ì\n˜8˜oŽg‚Á‚½‚à‚Ì‚Éj•Ÿ‚ð‚à‚½‚ç‚·",
+      "DROPSFROM": "STRAJE"
     }
   ]
 }
