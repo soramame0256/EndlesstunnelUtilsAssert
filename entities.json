@@ -283,6 +283,13 @@
       "NAME": "§c§lペセラジェ",
       "HEALTH": 100000,
       "ATTACK": 50
+    },
+    {
+      "ID": "STRAJE",
+      "TYPE": "Skeleton",
+      "NAME": "§f§lストラジェ",
+      "HEALTH": 500000,
+      "ATTACK": 305
     }
   ]
 }
