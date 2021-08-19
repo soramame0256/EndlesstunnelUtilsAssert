@@ -183,9 +183,6 @@
         "MANA": 25,
         "COOLDOWN": "16s",
         "TRIGGER": "NORMAL",
-        "ELEMENTS": [{
-          "WIND": 100
-        }],
         "CANINHERITANCE": false
       },
       {
