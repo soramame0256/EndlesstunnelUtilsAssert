@@ -34,7 +34,7 @@
       "ASTR": 0,
       "SPICY": 0,
       "LORE": "§8§o誰だよこれ食おうとしたやつ\n§8§oと思いきや割と甘味があったりする",
-      "DROPSFROM": "GUARDIAN"
+      "DROPSFROM": "ELITE_SKELETON"
     },
     {
       "NAME": "§b海の豚肉",
@@ -130,7 +130,7 @@
       "ASTR": 3,
       "SPICY": 0,
       "LORE": "§8§oガーディアンの.... 切り身...?????",
-      "DROPSFROM": "GUARDIAN"
+      "DROPSFROM": "ELITE_SKELETON"
     },
     {
       "NAME": "§9普通の水",

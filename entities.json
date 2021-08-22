@@ -192,12 +192,12 @@
       "ATTACK": 20
     },
     {
-      "ID": "GUARDIAN",
-      "TYPE": "Guardian",
-      "NAME": "ガーディアン",
-      "HEALTH": 15000,
+      "ID": "ELITE_SKELETON",
+      "TYPE": "Skeleton",
+      "NAME": "&f&lエリートスケルトン",
+      "HEALTH": 13000,
       "LEVEL": 30,
-      "ATTACK": 29
+      "ATTACK": 36
     },
     {
       "ID": "DARK_SHADOW",
