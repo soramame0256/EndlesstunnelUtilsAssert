@@ -194,7 +194,7 @@
     {
       "ID": "ELITE_SKELETON",
       "TYPE": "Skeleton",
-      "NAME": "&f&lエリートスケルトン",
+      "NAME": "§f§lエリートスケルトン",
       "HEALTH": 13000,
       "LEVEL": 30,
       "ATTACK": 36
